@@ -2,7 +2,7 @@
 
 ## My Goal
 
-The objective of this project is to creat  our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
+The objective of this project is to creat an app that add new items and add just by click our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
 
 
 
